@@ -1,0 +1,30 @@
+{
+    "name": "r.js",
+    "version": "1.0.0",
+    "description": "R.js is an extremely lightweight and easy-understanding Promise/A+ implementation. It's a great resource for learning Promise/A+ spec.",
+    "main": "r.js",
+    "scripts": {
+      "test": "node tests.js",
+      "custom-test": "run-my-own-tests && promises-aplus-tests test/my-adapter"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ranningman/rjs"
+    },
+    "keywords": [
+      "promise",
+      "promises",
+      "promise/A+",
+      "R.JS"
+    ],
+    "author": "Ran Xia (xiaranforusa@gmail.com)",
+    "license": "MIT",
+    "devDependencies": {
+        "promises-aplus-tests": "*"
+    },
+    "contributors": [{
+        "name": "Ran Xia",
+        "web": "http://rxia.me"
+    }],
+    "type": "module"
+  }
