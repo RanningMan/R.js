@@ -1,3 +1,9 @@
+<a href="https://promisesaplus.com/">
+    <img src="https://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo"
+         title="Promises/A+ 1.0 compliant" align="right" />
+</a>
+
+
 # R.js
 Yet another promise A+ implementation.  
 <b>Implementation passed [Promises/A+ Compliance Test Suite](https://github.com/promises-aplus/promises-tests). </b>  
